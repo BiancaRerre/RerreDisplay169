@@ -1,0 +1,14 @@
+# Syntax Coloring Map For YourLibrary
+# Datatypes (KEYWORD1)
+TFT_CS	KEYWORD1
+TFT_RST	KEYWORD1
+TFT_DC	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+RerreDisplay169	KEYWORD2
+begin	KEYWORD2
+clearScreen	KEYWORD2
+setTextFont	KEYWORD2
+writeInMiddle	KEYWORD2
+setCursor	KEYWORD2
+setCustomFont	KEYWORD2
